@@ -1,0 +1,6 @@
+git status
+git add
+git commit -m ""
+
+git remote add origin https://github.com/MarijuanaVRU/mc.git
+git push -u origin master
