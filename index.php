@@ -5,6 +5,6 @@
     <title>Главная</title>
 </head>
 <body>
-    <p>Hello</p>
+    <p>Hello s</p>
 </body>
 </html>
